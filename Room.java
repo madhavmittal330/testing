@@ -10,7 +10,7 @@ class Room
 }
 class RoomArea
 {
-public static void main(String args[])
+public static void Main(String args[])
 {
 	int area; 
 	Room room1=new Room(); 
